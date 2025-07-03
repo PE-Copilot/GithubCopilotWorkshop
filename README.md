@@ -9,8 +9,9 @@ You bring the ideas, and Copilot brings them to life.
 ## 🛠️ Hands-On: Part 1 - Build Your Dashboard with Copilot Agent Mode
 
 ### 🤖 What We'll Build
-
 We’ll design a **dynamic dashboard** to visualize Infineon’s product and sales data (already available in the `data/` folder as a CSV file).
+
+> **Note:** The product data is publicly available information as of June 2025. The sales data is mock data provided solely for this workshop.
 
 Here’s your mission:
 - Explore the data to understand what’s possible.
